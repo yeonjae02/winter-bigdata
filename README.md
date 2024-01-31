@@ -8,4 +8,4 @@
 넷플릭스와 영화관 사업과의 상관관계 분석
 
 #### 사용 데이터
-- 국내 연간 박스오피스 영화 개수 데이터
+- 국내 연간 박스오피스 영화 개수 데이터 [출처](https://www.kobis.or.kr/kobis/business/stat/offc/findFormerBoxOfficeList.do)
